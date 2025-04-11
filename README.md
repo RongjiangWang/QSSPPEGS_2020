@@ -13,3 +13,5 @@ After start the executable code, the program ask for an input file in the ASCII 
 References
 
 Wang, R., S. Heimann, Y. Zhang, H. Wang, and T. Dahm (2017). Complete synthetic seismograms based on a spherical self-gravitating Earth model with an atmos-phere-ocean-mantle-core structure. Geophysical Journal International, doi: 10.1093/gji/ggx259.
+
+Zhang, S., R. Wang, T. Dahm, S. Zhou, and S. Heimann (2020). Prompt elasto-gravity signals (PEGS) and their potential use in modern seismology. Earth and Planetary Science Letters, 36: 116150. doi:10.1016/j.epsl.2020.116150.
