@@ -1,4 +1,4 @@
-A variant of FORTRAN code QSSP for calculating prompt elasto-gravity signals (PEGS) of an eqrthquake in a spherically symmetric and elastic earth.
+A variant of FORTRAN code QSSP for calculating prompt elasto-gravity signals (PEGS) of an earthquake in a spherically symmetric and elastic earth.
 
 For Windows user, the executable file is provided under folder "WindowsEXE". Linux user may compile the source codes with "gfortran" via a single command like, e.g.,
 
